@@ -1,7 +1,13 @@
-# Damilola Ogunsolu — MIT 8103
+# Sales Distribution Company: Sales and Distribution Management
 
-Student ID: 301922623
+Damilola Ogunsolu · Student ID 301922623
 
-Sales Distribution Company / Sales & Distribution Management System
+The portfolio uses fictional records for Sales Distribution Company: Sales and Distribution Management.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Ogunsolu_Damilola_301922623_FinalSummary.md) · [PDF](Ogunsolu_Damilola_301922623_FinalSummary.pdf)
